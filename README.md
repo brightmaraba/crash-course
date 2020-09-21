@@ -1,2 +1,1 @@
-# crash-course
-Python Crash Course 2 Work
+# Python Crash Course 2 Work
